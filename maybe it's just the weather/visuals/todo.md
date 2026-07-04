@@ -5,7 +5,7 @@
 - [x] mark which scene at which location and what time and make a map with timing how to get where first etc
 - [ ] talk to vasili about fucking tiktok shots
 - [ ] get equipment + make sure all required equipment is there
-- [ ] update jarji and jijla on timingss
+- [ ] update jarji and jijla on timings
 - [ ] get a light person
 - [ ] think of a song promo video, maybe an intro into the song like a little story line, to convey the meaning, come up with a screen play (moon taking over more and more, show tarot cards, etc)
 	- sometimes i feel
