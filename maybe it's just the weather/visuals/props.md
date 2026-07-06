@@ -9,3 +9,4 @@
 7. chair
 8. thorns frame (scrolling reels)
 	 ![[Pasted image 20260630114322.png|190]]
+![[sun and moon masks.psd]]
