@@ -1,12 +1,12 @@
 - [ ] find props
-- [ ] find costumes for sun and moon
+- [x] find costumes for sun and moon
 - [x] make a map with timing
-- [ ] book camera and talk to einar
+- [x] book camera and talk to einar
 - [x] mark which scene at which location and what time and make a map with timing how to get where first etc
 - [ ] talk to vasili about fucking tiktok shots
-- [ ] get equipment + make sure all required equipment is there
+- [x] get equipment + make sure all required equipment is there
 - [ ] update jarji and jijla on timings
-- [ ] get a light person
+- [x] get a light person
 - [ ] think of a song promo video, maybe an intro into the song like a little story line, to convey the meaning, come up with a screen play (moon taking over more and more, show tarot cards, etc)
 	- sometimes i feel
 	- really sad
@@ -24,6 +24,6 @@
 	- the same thing
 - [ ] set up qr code / website
 - [ ] print posters and hang them around tbilisi
-- [ ] ask Einar about lights, make sure equipment is there
+- [x] ask Einar about lights, make sure equipment is there
 - [ ] ask Jarji about car, make sure it's rented and okay
 - [ ] get smoke bombs at dynamo for fog effect
