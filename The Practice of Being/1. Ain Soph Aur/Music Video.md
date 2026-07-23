@@ -1,0 +1,1 @@
+Wearing all white (torn robe), full white make up, sigils on the clothing, shot in complete darkness (black room) and forest at night with light, wear full white / black lens, wear metallic grills 
